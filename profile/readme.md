@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="25%" src="https://avatars.githubusercontent.com/u/123627057?s=200&v=4" alt="logo" />
+  <img width="25%" src="./assets/img/logo.png" alt="logo" />
   <br />
   <h1>Holdesher</h1>
 </div>
@@ -12,15 +12,12 @@
 
 <h3 align="center">Current stack</h3>
 
-<table width="100%">
-  <tr>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+  </table>
+</div>
