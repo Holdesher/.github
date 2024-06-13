@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="25%" src="./assets/img/logo.png" alt="logo" />
+  <img width="25%" src="https://avatars.githubusercontent.com/u/123627057?s=200&v=4" alt="logo" />
   <br />
   <h1>Holdesher</h1>
 </div>
