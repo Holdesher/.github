@@ -1,11 +1,10 @@
 <div align="center">
-  <img
-    width="256"
-    src="https://github.com/Holdesher/.github/blob/main/assets/img/preview.png"
-    alt="logo"
-  />
-  <h1>Holdesher</h1>
+
+![Logo](assets/img/docs.png)
+
 </div>
+
+<h1 align="center">Holdesher</h1>
 
 The community brings together developers with different backgrounds and specializations to collaborate on projects, contribute to open-source initiatives, and create innovative solutions. We focus on developing applications and services aimed at simplifying and optimizing data processing, integrating with external systems and APIs, as well as testing and implementing business ideas for various architectural solutions.
 

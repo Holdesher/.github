@@ -1,6 +1,10 @@
 <h1 align="center">Holdesher</h1>
 
 - [Contact](mailto:holdesher@ro.ru)
+- [License](./.github/LICENSE)
+- [Changelog](./.github/CHANGELOG.md)
+- [Marketplace](https://marketplace.visualstudio.com/search?term=kah3vich&target=VSCode&category=All%20categories&sortBy=Relevance)
+- [Contributing](./.github/CONTRIBUTING.md)
 
 <!--
 Сообщество объединяет разработчиков с разным опытом и специализацией для совместной реализации проектов, вклада в open-source инициативы, а также создания инновационных решений. Мы сосредоточены на разработке приложений и сервисов, направленных на упрощение и оптимизацию обработки данных, интеграцию с внешними системами и API, а также тестирование и реализацию бизнес-идей под различные архитектурные решения.
