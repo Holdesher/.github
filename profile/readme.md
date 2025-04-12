@@ -4,7 +4,6 @@
     src="https://github.com/Holdesher/.github/blob/main/assets/img/preview.png"
     alt="logo"
   />
-  <br />
   <h1>Holdesher</h1>
 </div>
 
