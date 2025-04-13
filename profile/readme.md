@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](assets/img/docs.png)
+![Logo](https://github.com/Holdesher/.github/blob/main/assets/img/docs.png)
 
 </div>
 
