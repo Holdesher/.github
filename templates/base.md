@@ -5,14 +5,11 @@ A brief and thoughtful description of the project and its objectives.
 ## Scripts
 
 ```bash
-# Linter code
-npm run lint
+npm run lint # linter code
 
-# Checked syntax
-npm run check
+npm run check # checked syntax
 
-# Formatting code
-npm run format
+npm run format # formatting code
 ```
 
 ## Materials
