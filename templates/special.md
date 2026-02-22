@@ -1,7 +1,7 @@
 <div align="center">
 	<img
-		src="../assets/img/preview.png"
-		alt="preview"
+		src="../assets/img/docs.png"
+		alt="logo"
 		width="240"
 	/>
 	<h1>Project</h1>
@@ -16,15 +16,19 @@
 - [Directions](#directions)
 - [Materials](#materials)
 
-## Scripts
+## Commands
 
-```bash
-npm run lint # linter code
-
-npm run check # checked syntax
-
-npm run format # formatting code
-```
+| Command              | Description          |
+| -------------------- | -------------------- |
+| `npm run dev`        | start dev server     |
+| `npm run build`      | build for production |
+| `npm run start`      | start prod server    |
+| `npm run preview`    | preview build        |
+| `npm run lint`       | run linter           |
+| `npm run lint:fix`   | fix lint errors      |
+| `npm run check`      | check syntax         |
+| `npm run format`     | check formatting     |
+| `npm run format:fix` | fix formatting       |
 
 ## Directions
 
