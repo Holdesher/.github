@@ -13,4 +13,4 @@
 ## Materials
 
 - [Contact](mailto:holdesher@ro.ru)
-- [Marketplace](https://marketplace.visualstudio.com/search?term=kah3vich&target=VSCode&category=All%20categories&sortBy=Relevance)
+- [Marketplace](https://marketplace.visualstudio.com/search?term=holdesher&target=VSCode&category=All%20categories&sortBy=Relevance)
