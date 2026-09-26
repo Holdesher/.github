@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="../assets/images/preview.png" width="260" height="260" alt="logo" />
+	<img src="../assets/images/dark.png" width="260" height="260" alt="logo" />
 	<h1>Holdesher</h1>
 </div>
 
