@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Holdesher</h1>
-	<p>📖 public company details and essential resources</p>
+	<p>📖 Public company details and essential resources</p>
 </div>
 
 ## Contact
@@ -16,7 +16,3 @@
 - [CodeOwners](.github/CODEOWNERS)
 - [Contributing](.github/CONTRIBUTING.md)
 - [CodeOfConduct](.github/CODE_OF_CONDUCT.md)
-
-## Materials
-
-- [Marketplace](https://marketplace.visualstudio.com/search?term=holdesher)
