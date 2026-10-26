@@ -1,4 +1,7 @@
-# Holdesher
+<div align="center">
+	<h1>Holdesher</h1>
+	<p>📖 public company details and essential resources</p>
+</div>
 
 ## Contact
 
@@ -6,10 +9,10 @@
 
 ## Context
 
-- [License](.github/LICENSE)
+- [License](LICENSE)
 - [Funding](.github/FUNDING.yml)
 - [Security](.github/SECURITY.md)
-- [ChangeLog](.github/CHANGELOG.md)
+- [Support](.github/SUPPORT.md)
 - [CodeOwners](.github/CODEOWNERS)
 - [Contributing](.github/CONTRIBUTING.md)
 - [CodeOfConduct](.github/CODE_OF_CONDUCT.md)
