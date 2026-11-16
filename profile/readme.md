@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="../assets/images/docs.jpg" width="240" alt="Holdesher" />
+	<img src="../assets/icons/docs.jpg" width="240" alt="Holdesher" />
 	<h1>Holdesher</h1>
 </div>
 
@@ -11,4 +11,4 @@ We actively prototype and validate new concepts, turning early-stage ideas into 
 
 ## Contacts
 
-Learn more about our work or get in touch: [Email](mailto:holdesher@ro.ru).
+Learn more about our work or get in touch: [email](mailto:holdesher@ro.ru).
