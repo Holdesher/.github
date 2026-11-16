@@ -1,10 +1,16 @@
 <div align="center">
-	<img src="../assets/images/dark.png" width="240" alt="Holdesher" />
+	<img src="../assets/images/docs.jpg" width="240" alt="Holdesher" />
 	<h1>Holdesher</h1>
 </div>
 
-Our community unites developers from diverse backgrounds to collaborate on open-source projects, build innovative solutions, and advance the future of software development. We specialize in creating applications and services that streamline data processing, enable seamless integration with external systems and APIs, and bring business ideas to life through robust architectural design.
+---
 
-From lightweight utilities to enterprise-grade platforms, our projects emphasize automation, efficient data handling, and adaptable system integration. We actively prototype and validate new concepts—transforming early-stage ideas into functional products while prioritizing architectural flexibility to meet evolving requirements.
+An open technology community and product studio focused on building software products, automation services, and integrations with external systems.
 
-We welcome developers, architects, and technologists who are passionate about building, learning, and shaping the technologies of tomorrow. Join us: [get in touch](mailto:holdesher@ro.ru).
+We work on projects of different scales, from lightweight utilities to data platforms and business solutions. Our projects focus on efficient data handling, adaptable architecture, and practical integration with existing systems.
+
+We actively prototype and validate new concepts, turning early-stage ideas into functional products while keeping the architecture flexible as requirements evolve.
+
+## Contacts
+
+Learn more about our work or get in touch: [Email](mailto:holdesher@ro.ru).
