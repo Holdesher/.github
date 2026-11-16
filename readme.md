@@ -3,8 +3,6 @@
 	<p>📖 Public company details and essential resources</p>
 </div>
 
----
-
 Developers, architects, and technologists work together to turn ideas into reliable applications, automation services, and integrations with external systems.
 
 ## Contacts
